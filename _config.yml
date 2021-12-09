@@ -1,17 +1,18 @@
 ---
-workshop_id: 
+workshop_id: 20211209PRE_Test
 topic: preregistration
-title: 
+title: Test on a workshop for preregistration
 instructors: []
 instructor_emails: []
 helpers: []
 start_times:
   - 09|00
-setup_files: []
+setup_files:
+  - videoconferencing
 language: en
-venue: null
-address: null
-country: null
+venue: Online
+address: in the Magellanic Cloud
+country: NL
 latitude: null
 longitude: null
 start_date: null
